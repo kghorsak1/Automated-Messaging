@@ -242,8 +242,8 @@ def addformat_phone_number(number):
 driver.quit()
 
 # Define Twilio account SID and auth token
-account_sid = 'AC51d3ce6da2feae4c06e4074ff872ced0'
-auth_token = '441e2e22fad07b5dae726c754386a588'
+account_sid = '--------------------'
+auth_token = '--------------------'
 
 # Create a Twilio client
 client = Client(account_sid, auth_token)
