@@ -273,7 +273,7 @@ for index, row in df.iloc[2:].iterrows():
 
     # Split the message into three parts
     message = (
-        f"Hi {name}, this is {employee} youre tour guide for the {TOD} tour!.() = MONKEY'"
+        f"Hi {name}, this is {employee} youre tour guide for the {TOD} tour! :() = MONKEY'"
     )
     #recipient_number = '+12545419312'
     # Create a Twilio client object
