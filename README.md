@@ -14,5 +14,14 @@ Dependencies: Scheduling website is FareHarbor.com. Have access to a Twilio Mess
 Limits: Due to A2P restrictions, messages send via the Twilio API are capped at 160 characters and links cannot be sent
 
 Documentation: ![image](https://github.com/kghorsak1/Automated-Messaging/assets/139821085/0c7e1792-72c0-4215-92b6-fb5d767e622c)
+![image](https://github.com/kghorsak1/Automated-Messaging/assets/139821085/b5307fb2-60df-4160-9148-a5edb79681fe)
+![image](https://github.com/kghorsak1/Automated-Messaging/assets/139821085/72677268-4b7f-4763-a372-89127f1fdac4)
+![image](https://github.com/kghorsak1/Automated-Messaging/assets/139821085/815b72a1-101e-4bd6-9778-2a223302bedb)
+![image](https://github.com/kghorsak1/Automated-Messaging/assets/139821085/76ac1074-83d3-4966-b594-fa460019d28e)
+
+
+
+
+
 
 
