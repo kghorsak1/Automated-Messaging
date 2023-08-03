@@ -12,3 +12,7 @@ Output: I have an amazon EC2 instance up and runnning where I can activate this 
 Dependencies: Scheduling website is FareHarbor.com. Have access to a Twilio Messaging API. Runs on an free Amazon EC2 instance in perpentuity.
 
 Limits: Due to A2P restrictions, messages send via the Twilio API are capped at 160 characters and links cannot be sent
+
+Documentation: ![image](https://github.com/kghorsak1/Automated-Messaging/assets/139821085/0c7e1792-72c0-4215-92b6-fb5d767e622c)
+
+
